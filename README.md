@@ -1,5 +1,6 @@
 # iw
-A tool to use nl80211.
+'iw' is a tool for managing wireless devices using nl80211, a netlink-based userspace interface for the cfg80211 configuration system.
+This repository contains a CMake-based project with the original source code files.
 
 'iw' is currently maintained at
 http://git.sipsolutions.net/iw.git/
